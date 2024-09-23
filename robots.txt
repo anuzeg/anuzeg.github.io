@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://anuzeg.github.io/sitemap/sitemap.txt
